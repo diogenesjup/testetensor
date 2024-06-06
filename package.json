@@ -1,0 +1,22 @@
+{
+  "name": "com.example.cordovaapp",
+  "version": "1.0.0",
+  "description": "Teste Captura",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogenesjup/testetensor.git"
+  },
+  "keywords": [
+    "pefisa pix"
+  ],
+  "author": "Diogenes Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogenesjup/testetensor/issues"
+  },
+  "homepage": "https://github.com/diogenesjup/testetensor#readme"
+}
